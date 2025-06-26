@@ -42,7 +42,7 @@ html_short_title = "Home Depot MyCard Login Help"
 html_favicon = 'favicon.ico'
 
 # Choose a theme
-html_theme = 'sphinx_rtd_theme'  # A clean, widely used theme for documentation
+# html_theme = 'sphinx_rtd_theme'  # A clean, widely used theme for documentation
 
 # Theme customization options
 html_theme_options = {
