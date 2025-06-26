@@ -4,8 +4,8 @@ Home Depot MyCard Login Not Working?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://homedepot.com/mycard" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Access MyCard Now
+        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Get Started Here
         </a>
     </div>
 
@@ -46,33 +46,33 @@ How to Fix Home Depot MyCard Login Problems
 
 1. **Reset Your Password**  
   
-   - Go to homedepot.com/mycard.  
+ * Go to homedepot.com/mycard.  
   
-   - Click on “Forgot Password” and follow the instructions.
+ *  Click on “Forgot Password” and follow the instructions.
 
 2. **Clear Cache or Use a Different Browser**  
   
-   - Press Ctrl+Shift+Delete on your keyboard (for Chrome).  
+*  Press Ctrl+Shift+Delete on your keyboard (for Chrome).  
   
-   - Clear cookies and cache.  
+*  Clear cookies and cache.  
   
-   - Try logging in again.
+*  Try logging in again.
 
 3. **Check Internet Connection**  
   
-   - A weak or unstable network can interrupt the login process.
+*  A weak or unstable network can interrupt the login process.
 
 4. **Use the Citibank Link (if redirected)**  
   
-   - Sometimes, Home Depot credit card logins redirect to Citibank’s site. 
+* Sometimes, Home Depot credit card logins redirect to Citibank’s site. 
   
-     This is normal as Citibank manages the Home Depot card services.
+*  This is normal as Citibank manages the Home Depot card services.
 
 5. **Contact Customer Service**  
   
-   - Call 1-800-677-0232 for Consumer Credit Card support.  
+ *  Call 1-800-677-0232 for Consumer Credit Card support.  
   
-   - For Project Loan or Pro Xtra, follow the prompts for the appropriate department.
+ *  For Project Loan or Pro Xtra, follow the prompts for the appropriate department.
 
 FAQs
 ----
@@ -105,13 +105,13 @@ If your Home Depot MyCard login isn’t working, try simple fixes like clearing 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://homedepot.com/mycard" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Access MyCard Now
         </a>
-        <a href="https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#signon" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Citi Sign-In Page
+        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗homedepot Sign-In Page
         </a>
-        <a href="https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=PLCN_HOMEDEPOT#forgotpassword" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9ob21lZGVwb3RoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Password
         </a>
     </div>
