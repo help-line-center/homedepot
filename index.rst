@@ -9,7 +9,7 @@ Home Depot MyCard Login Not Working?
         </a>
     </div>
 
-Having trouble with your Home Depot MyCard login? You're not alone. Many users face issues like wrong passwords, browser errors, or site glitches when trying to access `homedepot.com/mycard <https://homedepot.com/mycard>`_. This guide covers common problems, quick fixes, and helpful tips to get you logged in fast. Learn how to reset your password, clear browser cache, and avoid login errors. With a few simple steps, you’ll be back in your account in no time. Visit homedepot.com/mycard to manage your Home Depot credit card easily.
+Having trouble with your Home Depot MyCard login? You're not alone. Many users face issues like wrong passwords, browser errors, or site glitches when trying to access `homedepot.com/mycard <#>`_. This guide covers common problems, quick fixes, and helpful tips to get you logged in fast. Learn how to reset your password, clear browser cache, and avoid login errors. With a few simple steps, you’ll be back in your account in no time. Visit homedepot.com/mycard to manage your Home Depot credit card easily.
 
 Common Issues With homedepot.com/mycard Login
 ---------------------------------------------
@@ -52,21 +52,21 @@ How to Fix Home Depot MyCard Login Problems
 
 2. **Clear Cache or Use a Different Browser**  
   
-*  Press Ctrl+Shift+Delete on your keyboard (for Chrome).  
+ *  Press Ctrl+Shift+Delete on your keyboard (for Chrome).  
   
-*  Clear cookies and cache.  
+ *  Clear cookies and cache.  
   
-*  Try logging in again.
+ *  Try logging in again.
 
 3. **Check Internet Connection**  
   
-*  A weak or unstable network can interrupt the login process.
+ *  A weak or unstable network can interrupt the login process.
 
 4. **Use the Citibank Link (if redirected)**  
   
-* Sometimes, Home Depot credit card logins redirect to Citibank’s site. 
+ * Sometimes, Home Depot credit card logins redirect to Citibank’s site. 
   
-*  This is normal as Citibank manages the Home Depot card services.
+ *  This is normal as Citibank manages the Home Depot card services.
 
 5. **Contact Customer Service**  
   
