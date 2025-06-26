@@ -22,6 +22,17 @@ release = '1.0.0'
 
 # Add any Sphinx extension module names here, as strings.
 extensions = []
+# Hide "View page source"
+html_show_sourcelink = False
+
+# Allow raw HTML blocks in .rst files
+html_allow_unsafe = True
+
+# Theme customization options
+html_theme_options = {
+    'show_powered_by': False,
+}
+
 
 # Allow raw HTML blocks in .rst files
 suppress_warnings = ['raw-html']
