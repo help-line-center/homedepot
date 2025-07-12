@@ -4,7 +4,7 @@ Home Depot MyCard Login Not Working?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?r4Ekguug57HE3QXUksTVbHBswHjTFPWOSwmhji4IR60mUBCWsZatBsljlSwgmrY99L2" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Get Started Here
         </a>
     </div>
@@ -105,13 +105,13 @@ If your Home Depot MyCard login isn’t working, try simple fixes like clearing 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?r4Ekguug57HE3QXUksTVbHBswHjTFPWOSwmhji4IR60mUBCWsZatBsljlSwgmrY99L2" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Access MyCard Now
         </a>
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?r4Ekguug57HE3QXUksTVbHBswHjTFPWOSwmhji4IR60mUBCWsZatBsljlSwgmrY99L2" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗homedepot Sign-In Page
         </a>
-        <a href="https://sites.google.com/view/homedepotcommycard" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?r4Ekguug57HE3QXUksTVbHBswHjTFPWOSwmhji4IR60mUBCWsZatBsljlSwgmrY99L2" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Password
         </a>
     </div>
